@@ -1,0 +1,23 @@
+{
+  "name": "pdfmake-highcharts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vieirinhasantana/pdfmake-highcharts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vieirinhasantana/pdfmake-highcharts/issues"
+  },
+  "homepage": "https://github.com/vieirinhasantana/pdfmake-highcharts#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
